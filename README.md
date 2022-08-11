@@ -3,3 +3,4 @@
 new Changes 1
 NEW line 2
 aaa
+NEWS
